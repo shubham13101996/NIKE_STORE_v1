@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 import {
-  HeartIcon,
+  HeartIcon, 
   MagnifyingGlassIcon,
   ShoppingBagIcon,
 } from "@heroicons/react/24/outline";
